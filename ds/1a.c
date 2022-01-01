@@ -1,6 +1,7 @@
 //a.) Code a C Program to implement the following various operations for Stack ADT
 //using array
 //implementation. i.) Push ii.) Pop iii.) Display.
+
 #include<stdio.h>
 #include<stdlib.h>
 
